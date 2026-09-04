@@ -13,7 +13,7 @@ R = Fore.RED + Style.BRIGHT
 M = Fore.MAGENTA + Style.BRIGHT
 W = Fore.WHITE + Style.BRIGHT
 
-OWNER_NAME = "ROMAN HACKER"
+OWNER_NAME = "𓆩𝐋ᴏʀᴅ  𝐣∑яяу☠️⚡( भगवान 𝐇ᴜɴ बालक) 𓆩⃟🏴‍☠️𓆪"
 
 def banner():
     os.system('clear')
@@ -53,10 +53,10 @@ def simulate_strike(target):
 def main():
     while True:
         banner()
-        cmd = input(f"{M}ROMAN{W}@{C}HACKER{W}:~# ")
+        cmd = input(f"{M}𓆩𝐋ᴏʀᴅ  𝐣∑яяу{W}@{C}( भगवान 𝐇ᴜɴ बालक) 𓆩⃟🏴‍☠️𓆪{W}:~# ")
         
         if cmd == "1":
-            target = input(f"\n{Y}Target Number/+92: {W}")
+            target = input(f"\n{Y}Target Number/+91: {W}")
             if target:
                 simulate_strike(target)
                 input(f"\n{C}Press Enter to return...")
