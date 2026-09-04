@@ -1,1 +1,1 @@
-# Roman.whatapp.ban
+# JERRY.whatapp.ban
