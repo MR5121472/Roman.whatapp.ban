@@ -1,19 +1,8 @@
 import os
 import time
 import random
-from colorama import Fore, Style, init
 
-init(autoreset=True)
-
-# --- Neon Glow Palette ---
-G = Fore.GREEN + Style.BRIGHT
-C = Fore.CYAN + Style.BRIGHT
-Y = Fore.YELLOW + Style.BRIGHT
-R = Fore.RED + Style.BRIGHT
-M = Fore.MAGENTA + Style.BRIGHT
-W = Fore.WHITE + Style.BRIGHT
-
-OWNER_NAME = "ROMAN HACKER"
+OWNER_NAME = "Your Aman"
 
 def banner():
     os.system('clear')
